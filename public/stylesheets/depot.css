@@ -1,0 +1,22 @@
+#side, #main {
+    float:left;
+}
+
+nav#side {
+    width:100px;
+    padding: 20px;
+    background: none repeat scroll 0 0 #EEEEEE;
+    height: 300px;
+}
+div#columns {
+    width: 100%;
+}
+nav#side a {
+    display:block;
+}
+
+div#main {
+    margin: 0 0 0 10px;
+    padding: 20px;
+    background: none repeat scroll 0 0 #EEEEEE;
+}
